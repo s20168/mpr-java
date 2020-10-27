@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.pjwstk.mpr.WeightedAverageTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-10-26T19:39:19" hostname="MacBook-Pro-ukasz.local" time="0.231">
+  <properties/>
+  <testcase name="should_calculate_v3_average" classname="pl.edu.pjwstk.mpr.WeightedAverageTest" time="0.074"/>
+  <testcase name="should_calculate_big_file_average" classname="pl.edu.pjwstk.mpr.WeightedAverageTest" time="0.14"/>
+  <testcase name="should_calculate_v2_average" classname="pl.edu.pjwstk.mpr.WeightedAverageTest" time="0.003"/>
+  <testcase name="should_execute_when_file_not_found" classname="pl.edu.pjwstk.mpr.WeightedAverageTest" time="0.003"/>
+  <testcase name="should_remove_redundant_zeros" classname="pl.edu.pjwstk.mpr.WeightedAverageTest" time="0.007"/>
+  <testcase name="should_create_class" classname="pl.edu.pjwstk.mpr.WeightedAverageTest" time="0.0"/>
+  <testcase name="should_calculate_v1_average" classname="pl.edu.pjwstk.mpr.WeightedAverageTest" time="0.003"/>
+  <system-out><![CDATA[2.55
+4.11
+2.08
+3.5
+3
+4.11
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
